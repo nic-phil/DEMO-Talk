@@ -15,7 +15,12 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-
+/**
+ * This is the main class of the Demo-Talk app that simply shows how to use intents
+ * to interact with an instance of the SpeechRecognizer class
+ *
+ * @author Phil Miller <phil@accessidaho.org>
+ */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     @Override
